@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fbded5a4-561c-44ce-9671-fcec2b642b3b)<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/5e016b31-c02f-4807-a3ce-828d11759ef1" alt="Description of image" />
 </p>
 
